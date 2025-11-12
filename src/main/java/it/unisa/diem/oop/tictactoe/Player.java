@@ -14,7 +14,7 @@ public abstract class Player {
      *                   Board.CELL_O
      */
     protected Player(int mark) {
-        assert mark==Board.CELL_X || mark==Board.CELL_O;
+        assert mark==Board.CELL_O || mark==Board.CELL_O;
         this.mark=mark;
     }
     
