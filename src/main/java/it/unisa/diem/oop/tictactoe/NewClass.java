@@ -11,4 +11,5 @@ package it.unisa.diem.oop.tictactoe;
  */
 public class NewClass {
     private int  modifica_prova;
+    private int brunoricchione;
 }
