@@ -48,7 +48,7 @@ public class Game {
         if (board.getNextMark()==player[0].getMark())
                 return player[0];
         else
-                return player[1];
+                return player[0];
     }
     
     public static void main(String args[]) {
