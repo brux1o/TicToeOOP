@@ -10,5 +10,5 @@ package it.unisa.diem.oop.tictactoe;
  * @author bruno
  */
 public class NewClass {
-    private int giacomomerda;
+    private int  modifica_prova;
 }
